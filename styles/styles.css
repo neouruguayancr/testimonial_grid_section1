@@ -42,6 +42,7 @@ body {
 .testimonials-grid .item {
   padding: 2rem 2.65rem;
   border-radius: 0.5rem;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
 }
 
 .testimonials-grid .item:nth-child(1) {
